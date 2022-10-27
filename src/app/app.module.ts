@@ -18,3 +18,4 @@ import { ComponetBComponent } from './componet-b/componet-b.component';
   bootstrap: [AppComponent]
 })
 export class AppModule { }
+//1231
